@@ -41,14 +41,4 @@ By accessing or using this website, you agree to these Terms of Service:
 - Personal data is not sold or shared with third parties except where required to operate the service or comply with legal obligations.  
 - If social media platform integrations are used, data access occurs only with user authorization and solely for the intended functionality.
 
----
 
-## How to Use
-
-1. Place `index.html` (or your main HTML file) in the root of this repository.  
-2. Deploy via Render, GitHub Pages, or any static site host.  
-3. The site will be publicly accessible and ready for TikTok or other service verification.
-
----
-
-© 2026 Rowen. All rights reserved.
